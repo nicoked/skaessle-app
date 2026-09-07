@@ -1,0 +1,24 @@
+{
+  "name": "S'KÄSSLE",
+  "short_name": "S'KÄSSLE",
+  "description": "Haushaltsbuch",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f4fa",
+  "theme_color": "#f3f4fa",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
